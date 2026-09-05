@@ -8,11 +8,11 @@ Inventra is an inventory management app for tracking products, suppliers, purcha
 
 ## Highlights
 
-- Product, supplier, purchase, and sales management
-- Revenue and inventory analytics
-- Role-based authentication
-- Local image uploads
-- Responsive React frontend with a Node/Express API
+* Product, supplier, purchasing, and sales management
+* Revenue and inventory analytics
+* Role-based authentication and access control
+* Local image upload support
+* Responsive React frontend backed by a Node.js/Express API
 
 ## Stack
 
